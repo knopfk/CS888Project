@@ -1,0 +1,5 @@
+To Run: python3 3Dwatermark.py
+
+#Requires: opencv matlibplot matplotlib
+
+To change image, choose the associated folder and move all images inside to the main directory
